@@ -20,6 +20,6 @@ Some courses I am taking are:
 
 ## Screenshot of cmd commands
 
-![This is the proof](proof.jpg)
+![This is the proof](proof.JPG)
 
 

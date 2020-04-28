@@ -18,8 +18,8 @@ Some courses I am taking are:
 | Computers and Society | CSCI3251    | Chuck-jee Chau   |
 | Engineering Practicum | CSCI3250    | Chuck-jee Chau   |
 
-##Screenshot of cmd commands
+## Screenshot of cmd commands
 
-![This is the proof](/proof.jpg)
+![This is the proof](proof.jpg)
 
 
